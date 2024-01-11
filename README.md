@@ -2,7 +2,6 @@
 - 📝 I’m interested in data science and biology.
 - 🌱 I’m currently learning data analysis in Laboratoria.
 - 💞️ I’m looking to collaborate on research projects.
-- 💌 How to reach me: mariell.morven@gmail.com
 - ✨ Fun fact: I speak Spanish.
 
 <!---
