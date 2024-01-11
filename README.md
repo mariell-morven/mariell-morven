@@ -1,6 +1,6 @@
-- 💃 Hi, I’m @mariell-morven
-- 📝 I’m interested in data science and biology.
-- 🌱 I’m currently learning data analysis in Laboratoria.
+- 💃 Hi, I’m Mariell!
+- 📝 I’m interested in data science and biology,
+- 🌱 I’m currently learning data analysis in Laboratoria,
 - 💞️ I’m looking to collaborate on research projects.
 - ✨ Fun fact: I speak Spanish.
 
