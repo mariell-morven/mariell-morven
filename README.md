@@ -1,7 +1,7 @@
 # 💃 Hey, I’m Mariell!
 ![in(2)](https://github.com/mariell-morven/mariell-morven/assets/151504111/b99cdad6-afed-4884-ad89-2db4d471df77)
 👩‍💻 Data Analyst Jr. & Biologist 👩‍🔬
-> Currently focusing on Extract, Tranform, Load (ETL); Business Intelligence (BI); and Machine Learning (ML)
+> Currently focusing on ETL (Extract, Transform, Load), Business Intelligence (BI), and Machine Learning (ML)
 ## ⚙️ Technical Skills
 - Operating Systems: ```Windows```
 - Programming Languages: ```SQL``` ```Python```
